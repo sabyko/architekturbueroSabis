@@ -1,0 +1,214 @@
+@font-face {
+    font-family: 'Architects Daughter';
+    src: url('fonts/ArchitectsDaughter-Regular.woff2') format('woff2'),
+        url('fonts/ArchitectsDaughter-Regular.woff') format('woff');
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Architects Daughter', Arial, sans-serif;
+}
+
+.header {
+    max-width: 1457px;
+    max-height: 248;
+    margin: 0 auto;
+    background-color: #333;
+    color: #fff;
+    position: relative;
+}
+
+
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    position: relative;
+}
+
+.header-image {
+    flex: 1;
+    width: 1457px;
+    max-width: 100%;
+    height: auto;
+    max-height: 248px;
+    object-fit: cover;
+}
+
+.header-text {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 0px;
+    left: 20px;
+}
+
+.header-text h1 {
+    align-self: flex-start;
+    margin-top: 17px;
+    margin-left: 18.03px;
+    font-size: 4vw;
+    font-family: 'Architects Daughter', Arial, sans-serif;
+    position: absolute;
+}
+
+@media screen and (min-width: 1200px) {
+    .header-text h1 {
+        font-size: 20px;
+    }
+}
+
+.ArchitekturbRoSabiS {
+    position: absolute;
+    width: 213.30px;
+    height: 28px;
+    left: 18.03px;
+    top: 17px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Architects Daughter', Arial, sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.HeaderLinks {
+    align-self: flex-start;
+    margin-left: 1035.41px;
+    display: flex;
+    gap: 75px;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.News {
+    width: 50.07px;
+    height: 28px;
+    left: 326.48px;
+    top: -0px;
+}
+
+.BerUns {
+    width: 83.12px;
+    height: 28px;
+    left: 157.61px;
+    top: -0px;
+}
+
+.Projekte {
+    width: 81.11px;
+    height: 28px;
+    left: 0px;
+    top: 0px;
+}
+
+main {
+    width: 100%;
+    max-width: 1440px;
+    height: 100%;
+    max-height: 1016px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-column-gap: 45px;
+    grid-row-gap: 54px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0;
+    padding-bottom: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 100%;
+    max-width: 450px;
+    height: 301.90px;
+    background-color: #f0f0f0;
+    border-radius: 40px;
+    position: relative;
+    overflow: hidden;
+}
+
+.image-container {
+    position: relative;
+    max-width: 450px;
+    max-height: 247.74px;
+}
+
+.box img {
+    width: 450px;
+    max-height: 247.74px;
+    object-fit: cover;
+    border-radius: 40px;
+    align-items: top;
+}
+
+.button-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.button {
+    width: 222.38px;
+    height: 42.12px;
+    background-color: #BDBBBB;
+    color: black;
+    border: none;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 30px;
+    font-size: 24px;
+}
+
+footer {
+    max-width: 1457px;
+    max-height: 123.82px;
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    position: absolute;
+    flex-direction: column;
+}
+
+.footer-image {
+    flex: 1;
+    width: 1457px;
+    max-width: 100%;
+    height: auto;
+    max-height: 248px;
+    object-fit: cover;
+}
+
+.footer-text {
+    flex: 1;
+    position: absolute;
+    z-index: 1;
+}
+
+.FooterLinks {
+    position: relative;
+    display: flex;
+    align-self: flex-end;
+    margin-top: 40px;
+    margin-left: 43px;
+    margin-right: 43px;
+    gap: 530px;
+    font-weight: 400;
+    font-size: 20px;
+}
