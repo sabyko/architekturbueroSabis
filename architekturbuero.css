@@ -1,0 +1,629 @@
+body {
+    width: 1457px;
+    height: 1388px;
+    position: relative;
+    background: white
+}
+
+header {
+    width: 1457px;
+    height: 248px;
+    left: 0px;
+    top: 0px;
+    position: absolute
+}
+
+.header2 {
+    width: 1457px;
+    height: 247.64px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #DF7474
+}
+
+.headerImg {
+    width: 1457px;
+    height: 248px;
+    left: 0px;
+    top: 0px;
+    position: absolute
+}
+
+.architekturbRoSabiS {
+    width: 213.30px;
+    height: 28px;
+    left: 18.03px;
+    top: 17px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Arimo;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.headerLinks {
+    width: 376.55px;
+    height: 28px;
+    left: 1035.41px;
+    top: 17px;
+    position: absolute
+}
+
+.News {
+    width: 50.07px;
+    height: 28px;
+    left: 326.48px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Arimo;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.BerUns {
+    width: 83.12px;
+    height: 28px;
+    left: 157.61px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Arimo;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.Projekte {
+    width: 81.11px;
+    height: 28px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Arimo;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+main {
+    width: 1440px;
+    height: 1016px;
+    left: 9px;
+    top: 248px;
+    position: absolute
+}
+
+.plan1 {
+    width: 450px;
+    height: 302.90px;
+    left: 0px;
+    top: 0px;
+    position: absolute
+}
+
+button {
+    padding: 0;
+    border: none;
+}
+
+.plan2 {
+    width: 450px;
+    height: 302.90px;
+    left: 495px;
+    top: 0px;
+    position: absolute
+}
+
+.plan3 {
+    width: 450px;
+    height: 302px;
+    left: 990px;
+    top: 0px;
+    position: absolute
+}
+
+.plan4 {
+    width: 450px;
+    height: 301.90px;
+    left: 0px;
+    top: 357.05px;
+    position: absolute
+}
+
+.plan5 {
+    width: 450px;
+    height: 301.90px;
+    left: 495px;
+    top: 357.05px;
+    position: absolute
+}
+
+.plan6 {
+    width: 450px;
+    height: 302px;
+    left: 990px;
+    top: 357px;
+    position: absolute
+}
+
+.plan7 {
+    width: 450px;
+    height: 301.90px;
+    left: 0px;
+    top: 714.10px;
+    position: absolute
+}
+
+.plan8 {
+    width: 450px;
+    height: 301.90px;
+    left: 495px;
+    top: 714.10px;
+    position: absolute
+}
+
+.plan9 {
+    width: 450px;
+    height: 302px;
+    left: 990px;
+    top: 714px;
+    position: absolute
+}
+
+.imagebox1 {
+    width: 450px;
+    height: 301.90px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+    border-radius: 40px
+}
+
+.imagebox2 {
+    width: 450px;
+    height: 301.90px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+    border-radius: 40px
+}
+
+.imagebox3 {
+    width: 450px;
+    height: 300.80px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+    border-radius: 40px
+}
+
+.imagebox4 {
+    width: 450px;
+    height: 301.90px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+    border-radius: 40px
+}
+
+.imagebox5 {
+    width: 450px;
+    height: 301.90px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+    border-radius: 40px
+}
+
+.imagebox6 {
+    width: 450px;
+    height: 302px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+    border-radius: 40px
+}
+
+.imagebox7 {
+    width: 449.98px;
+    height: 301.90px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+    border-radius: 40px
+}
+
+.imagebox8 {
+    width: 450px;
+    height: 301.90px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #D9D9D9;
+    border-radius: 40px
+}
+
+.imagebox9 {
+    width: 450px;
+    height: 301.90px;
+    left: -0px;
+    top: 0.10px;
+    position: absolute;
+    background: #D9D9D9;
+    border-radius: 40px
+}
+
+.button1 {
+    width: 222.38px;
+    height: 42.12px;
+    left: 125.64px;
+    top: 260.77px;
+    position: absolute;
+    background: #BDBBBB;
+    border-radius: 30px
+}
+
+.button2 {
+    width: 208.14px;
+    height: 42.12px;
+    left: 129.12px;
+    top: 260.77px;
+    position: absolute;
+    background: #BDBBBB;
+    border-radius: 30px
+}
+
+.button3 {
+    width: 191.55px;
+    height: 41.91px;
+    left: 154.80px;
+    top: 260.09px;
+    position: absolute;
+    background: #BDBBBB;
+    border-radius: 30px
+}
+
+.button4 {
+    width: 227.33px;
+    height: 40.12px;
+    left: 122.08px;
+    top: 261.77px;
+    position: absolute;
+    background: #BDBBBB;
+    border-radius: 30px
+}
+
+.button5 {
+    width: 227.33px;
+    height: 40.12px;
+    left: 122.08px;
+    top: 261.77px;
+    position: absolute;
+    background: #BDBBBB;
+    border-radius: 30px
+}
+
+.button6 {
+    width: 224.52px;
+    height: 40.12px;
+    left: 126.23px;
+    top: 261.82px;
+    position: absolute;
+    background: #BDBBBB;
+    border-radius: 30px
+}
+
+.button7 {
+    width: 227.36px;
+    height: 40.12px;
+    left: 122.05px;
+    top: 261.77px;
+    position: absolute;
+    background: #BDBBBB;
+    border-radius: 30px
+}
+
+.button8 {
+    width: 224.52px;
+    height: 40.12px;
+    left: 120.45px;
+    top: 261.77px;
+    position: absolute;
+    background: #BDBBBB;
+    border-radius: 30px
+}
+
+.button9 {
+    width: 223.56px;
+    height: 40.12px;
+    left: 119.94px;
+    top: 261.88px;
+    position: absolute;
+    background: #BDBBBB;
+    border-radius: 30px
+}
+
+.bauplanAnsehen1 {
+    width: 206.94px;
+    height: 40.12px;
+    left: 141.09px;
+    top: 261.77px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Arimo;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.bauplanAnsehen2 {
+    left: 161.58px;
+    top: 270.77px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Arimo;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.bauplanAnsehen3 {
+    left: 173px;
+    top: 269px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Arimo;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.bauplanAnsehen4 {
+    width: 212.68px;
+    height: 40.12px;
+    left: 136.73px;
+    top: 261.77px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Arimo;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.bauplanAnsehen5 {
+    width: 212.68px;
+    height: 40.12px;
+    left: 136.73px;
+    top: 261.77px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Arimo;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.bauplanAnsehen6 {
+    width: 210.06px;
+    height: 40.12px;
+    left: 140.69px;
+    top: 261.82px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Arimo;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.bauplanAnsehen7 {
+    width: 212.71px;
+    height: 40.12px;
+    left: 136.70px;
+    top: 261.77px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Arimo;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.bauplanAnsehen8 {
+    width: 210.06px;
+    height: 40.12px;
+    left: 134.90px;
+    top: 261.77px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Arimo;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.bauplanAnsehen9 {
+    width: 209.17px;
+    height: 40.12px;
+    left: 134.33px;
+    top: 261.88px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: Arimo;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.img1 {
+    width: 450px;
+    height: 248px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border-radius: 40px
+}
+
+.img2 {
+    width: 450px;
+    height: 247px;
+    left: 504px;
+    top: 248px;
+    position: absolute;
+    border-radius: 40px
+}
+
+.img3 {
+    width: 448.07px;
+    height: 246.84px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border-radius: 40px
+}
+
+.img4 {
+    width: 450px;
+    height: 247.74px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border-radius: 40px
+}
+
+.img5 {
+    width: 450px;
+    height: 247.74px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border-radius: 40px
+}
+
+.img6 {
+    width: 450px;
+    height: 247.74px;
+    left: -0px;
+    top: 0.05px;
+    position: absolute;
+    border-radius: 40px
+}
+
+.img7 {
+    width: 450px;
+    height: 247.74px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border-radius: 40px
+}
+
+.img8 {
+    width: 450px;
+    height: 247.74px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border-radius: 40px
+}
+
+.img9 {
+    width: 450px;
+    height: 248px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border-radius: 40px
+}
+
+footer {
+    width: 1454.98px;
+    height: 123.82px;
+    left: 0px;
+    top: 1264px;
+    position: absolute
+}
+
+.footer2 {
+    width: 1454.98px;
+    height: 123.82px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #DF7474;
+}
+
+.footerImg {
+    width: 1454.98px;
+    height: 123.82px;
+    left: 0px;
+    top: 0px;
+    position: absolute
+}
+
+.footerLinks {
+    width: 1382px;
+    height: 60.92px;
+    left: 43px;
+    top: 62px;
+    position: absolute
+}
+
+.kontakt {
+    width: 120.32px;
+    height: 55.92px;
+    left: 0px;
+    top: 5px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Arimo;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.feedback {
+    width: 93.02px;
+    height: 55.92px;
+    left: 647px;
+    top: 5px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Arimo;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.socialMedia {
+    left: 1267px;
+    top: 0px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Arimo;
+    font-weight: 400;
+    word-wrap: break-word
+}
