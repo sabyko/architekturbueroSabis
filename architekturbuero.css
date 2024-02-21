@@ -109,6 +109,22 @@ main {
 button {
     padding: 0;
     border: none;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: Arimo;
+    font-weight: 400;
+}
+
+button:hover,
+button1:hover,
+button2:hover,
+button3:hover,
+button4:hover,
+button5:hover,
+button6:hover,
+button7:hover,
+button9:hover {
+    background-color: rgb(114, 114, 236);
 }
 
 .plan2 {
@@ -272,7 +288,8 @@ button {
     top: 260.77px;
     position: absolute;
     background: #BDBBBB;
-    border-radius: 30px
+    border-radius: 30px;
+    cursor: pointer;
 }
 
 .button2 {
@@ -282,7 +299,8 @@ button {
     top: 260.77px;
     position: absolute;
     background: #BDBBBB;
-    border-radius: 30px
+    border-radius: 30px;
+    cursor: pointer;
 }
 
 .button3 {
@@ -292,7 +310,8 @@ button {
     top: 260.09px;
     position: absolute;
     background: #BDBBBB;
-    border-radius: 30px
+    border-radius: 30px;
+    cursor: pointer;
 }
 
 .button4 {
@@ -302,7 +321,8 @@ button {
     top: 261.77px;
     position: absolute;
     background: #BDBBBB;
-    border-radius: 30px
+    border-radius: 30px;
+    cursor: pointer;
 }
 
 .button5 {
@@ -312,7 +332,8 @@ button {
     top: 261.77px;
     position: absolute;
     background: #BDBBBB;
-    border-radius: 30px
+    border-radius: 30px;
+    cursor: pointer;
 }
 
 .button6 {
@@ -322,7 +343,8 @@ button {
     top: 261.82px;
     position: absolute;
     background: #BDBBBB;
-    border-radius: 30px
+    border-radius: 30px;
+    cursor: pointer;
 }
 
 .button7 {
@@ -332,7 +354,8 @@ button {
     top: 261.77px;
     position: absolute;
     background: #BDBBBB;
-    border-radius: 30px
+    border-radius: 30px;
+    cursor: pointer;
 }
 
 .button8 {
@@ -342,7 +365,8 @@ button {
     top: 261.77px;
     position: absolute;
     background: #BDBBBB;
-    border-radius: 30px
+    border-radius: 30px;
+    cursor: pointer;
 }
 
 .button9 {
@@ -352,129 +376,8 @@ button {
     top: 261.88px;
     position: absolute;
     background: #BDBBBB;
-    border-radius: 30px
-}
-
-.bauplanAnsehen1 {
-    width: 206.94px;
-    height: 40.12px;
-    left: 141.09px;
-    top: 261.77px;
-    position: absolute;
-    text-align: center;
-    color: black;
-    font-size: 20px;
-    font-family: Arimo;
-    font-weight: 400;
-    word-wrap: break-word
-}
-
-.bauplanAnsehen2 {
-    left: 161.58px;
-    top: 270.77px;
-    position: absolute;
-    text-align: center;
-    color: black;
-    font-size: 20px;
-    font-family: Arimo;
-    font-weight: 400;
-    word-wrap: break-word
-}
-
-.bauplanAnsehen3 {
-    left: 173px;
-    top: 269px;
-    position: absolute;
-    text-align: center;
-    color: black;
-    font-size: 20px;
-    font-family: Arimo;
-    font-weight: 400;
-    word-wrap: break-word
-}
-
-.bauplanAnsehen4 {
-    width: 212.68px;
-    height: 40.12px;
-    left: 136.73px;
-    top: 261.77px;
-    position: absolute;
-    text-align: center;
-    color: black;
-    font-size: 20px;
-    font-family: Arimo;
-    font-weight: 400;
-    word-wrap: break-word
-}
-
-.bauplanAnsehen5 {
-    width: 212.68px;
-    height: 40.12px;
-    left: 136.73px;
-    top: 261.77px;
-    position: absolute;
-    text-align: center;
-    color: black;
-    font-size: 20px;
-    font-family: Arimo;
-    font-weight: 400;
-    word-wrap: break-word
-}
-
-.bauplanAnsehen6 {
-    width: 210.06px;
-    height: 40.12px;
-    left: 140.69px;
-    top: 261.82px;
-    position: absolute;
-    text-align: center;
-    color: black;
-    font-size: 20px;
-    font-family: Arimo;
-    font-weight: 400;
-    word-wrap: break-word
-}
-
-.bauplanAnsehen7 {
-    width: 212.71px;
-    height: 40.12px;
-    left: 136.70px;
-    top: 261.77px;
-    position: absolute;
-    text-align: center;
-    color: black;
-    font-size: 20px;
-    font-family: Arimo;
-    font-weight: 400;
-    word-wrap: break-word
-}
-
-.bauplanAnsehen8 {
-    width: 210.06px;
-    height: 40.12px;
-    left: 134.90px;
-    top: 261.77px;
-    position: absolute;
-    text-align: center;
-    color: black;
-    font-size: 20px;
-    font-family: Arimo;
-    font-weight: 400;
-    word-wrap: break-word
-}
-
-.bauplanAnsehen9 {
-    width: 209.17px;
-    height: 40.12px;
-    left: 134.33px;
-    top: 261.88px;
-    position: absolute;
-    text-align: center;
-    color: black;
-    font-size: 20px;
-    font-family: Arimo;
-    font-weight: 400;
-    word-wrap: break-word
+    border-radius: 30px;
+    cursor: pointer;
 }
 
 .img1 {
