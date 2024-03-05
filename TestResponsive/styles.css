@@ -1,0 +1,55 @@
+/* Allgemeine Stile für alle Bildschirmgrößen */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+input[type="text"],
+button {
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box; /* Padding in die Gesamtbreite einberechnet wird */
+}
+
+.image-container {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+}
+
+/* Media Query für Tablet */
+@media screen and (max-width: 768px) {
+    .container {
+        padding: 15px;
+    }
+    
+    input[type="text"],
+    button {
+        font-size: 14px;
+    }
+}
+
+/* Media Query für Handys */
+@media screen and (max-width: 480px) {
+    .container {
+        padding: 10px;
+    }
+    
+    input[type="text"],
+    button {
+        font-size: 12px;
+    }
+}

@@ -1,0 +1,55 @@
+/* Allgemeine Stile für alle Bildschirmgrößen */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+input[type="text"],
+button {
+    display: block;
+    width: 100%;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 0.5rem;
+    box-sizing: border-box; /* Padding in die Gesamtbreite einberechnet wird */
+}
+
+.image-container {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+}
+
+/* Adaptives Design für kleinere Bildschirme */
+@media screen and (max-width: 768px) {
+    .container {
+        padding: 1.5rem;
+    }
+    
+    input[type="text"],
+    button {
+        font-size: 0.875rem; /* 14px in rem umgerechnet */
+    }
+}
+
+/* Adaptives Design für Handys */
+@media screen and (max-width: 480px) {
+    .container {
+        padding: 1rem;
+    }
+    
+    input[type="text"],
+    button {
+        font-size: 0.75rem; /* 12px in rem umgerechnet */
+    }
+}
