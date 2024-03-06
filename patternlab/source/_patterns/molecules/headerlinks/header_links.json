@@ -1,0 +1,13 @@
+{
+    "class": "HeaderLinks",
+    "width": "376.55px",
+    "height": "28px",
+    "left": "1035.41px",
+    "top": "17px",
+    "links": [
+      {"class": "News", "width": "50.07px", "height": "28px", "left": "326.48px", "top": "0px", "position": "absolute", "color": "white", "fontSize": "20px", "fontFamily": "Arimo", "fontWeight": "400", "text": "News"},
+      {"class": "BerUns", "width": "83.12px", "height": "28px", "left": "157.61px", "top": "0px", "position": "absolute", "color": "white", "fontSize": "20px", "fontFamily": "Arimo", "fontWeight": "400", "text": "Über uns"},
+      {"class": "Projekte", "width": "81.11px", "height": "28px", "left": "0px", "top": "0px", "position": "absolute", "color": "white", "fontSize": "20px", "fontFamily": "Arimo", "fontWeight": "400", "text": "Projekte"}
+    ]
+  }
+  
